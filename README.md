@@ -1,4 +1,4 @@
 ## 👨‍💻 Development
 
-```git clone https://github.com/axiostq/game-y-n.git```
+```git clone https://github.com/Jittiphatz/love.git```
 
