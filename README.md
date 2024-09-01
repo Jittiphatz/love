@@ -5,6 +5,12 @@ git clone https://github.com/Jittiphatz/love.git
 ```
 - Have fun!
 
-## Original Code
+## 🌐 Original Code
 
-- [axiostq](https://github.com/axiostq/game-y-n)
+- [GitHub : axiostq](https://github.com/axiostq/game-y-n)
+
+## 💻 Technologies
+
+- HTML
+- CSS
+- JavaScript
